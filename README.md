@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Software Engineer & Founder
 --------------------
 
-MSc Artificial Intelligence graduate from Brunel University. I run [Blitcore](http://www.blitcore.com/) — a software agency — and I'm focused on building software that changes the real world for the better.
+MSc Artificial Intelligence graduate from Brunel University. I run [Blitcore](http://www.blitcore.com/) — a software agency.
 
 * 🌍  Based in Abuja, Nigeria
 * ✉️  [abass-jam@hotmail.com](mailto:abass-jam@hotmail.com)
